@@ -37,6 +37,9 @@
     <ClCompile Include="sam3.cpp" />
     <ClCompile Include="samMain.c" />
   </ItemGroup>
+  <ItemGroup>
+    <None Include="readme.md" />
+  </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
     <ProjectGuid>{1565A05F-87A9-4812-B95F-FCB9E2FF99A5}</ProjectGuid>
